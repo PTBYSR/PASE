@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.space {
+  font-family: "Space Grotesk"
+}
+.roboto {
+  font-family: "Roboto"
+}
+.inter {
+  font-family: "Inter"
+}
