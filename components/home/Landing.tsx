@@ -10,7 +10,7 @@ const Landing = () => {
         <div className="md:h-1/2  border-b-gray border-b border-opacity-[.2] flex md:flex-row flex-col">
           <div className="md:hidden block">
             <p className="roboto text-base text-gray inter">
-              Páse Digital <br />a collective of skilled developers and
+              Páse Digital <br />a collective of skilled web developers and
               designers dedicated
               <span className="text-gum  ">
                 {" "}
@@ -21,7 +21,7 @@ const Landing = () => {
           <div className="header-svg-mobile h-full flex items-end relative justify-start md:w-2/3 pb-9">
             <Header />
             <p className="md:text-base text-xs text-gum md:ml-10  space">
-              DEVELOPMENT DESIGN
+              WEB DEVELOPMENT WEB DESIGN
             </p>
           </div>
           <div className=" md:flex hidden w-1/3 justify-end  h-fit">
