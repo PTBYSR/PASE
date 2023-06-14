@@ -43,7 +43,7 @@ const Landing = () => {
           </div>
           <div className="md:w-1/2 ">
             <div>
-              <p className="roboto text-base text-gray inter">
+              <p className="roboto text-base md:text-base leading-5 text-gray inter">
                 Hey, I'm Paul-Simon,
                 <br /> Head Developer and <br className="md:hidden block" />{" "}
                 founder of Páse Digital

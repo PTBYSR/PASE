@@ -16,12 +16,12 @@ const Footer = () => {
             </Marquee>
           </div>
         </div>
-        <div className=" h-1/2 flex flex-col-reverse md:flex-row  px-6 gap-10">
+        <div className=" h-1/2 flex flex-col-reverse md:flex-row  px-3 gap-10">
           <div className="md:w-1/2 flex md:justify-center md:items-center border-t-midnight border-t border-opacity-[.2] py-[2.5rem]">
             <BigArrow fill="#99B2FF" w={14 * 10} h={19 * 10} />
           </div>
           <div className="md:w-1/2 ">
-            <p className="text-base text-midnight">
+            <p className="text-base text-midnight md:text-base leading-5">
             WhatsApp or Email us to get started.<br /> Let's bring your digital vision to life.<br /> Contact us now!
             </p>
             <Button
