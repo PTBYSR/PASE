@@ -3,6 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <svg
+      className="md:w-auto w-full"
       width="573"
       height="259"
       viewBox="0 0 573 259"

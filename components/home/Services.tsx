@@ -12,7 +12,7 @@ const Services = () => {
         </div>
 
         <div className="border-b-gray border-b w-fit relative border-opacity-[.2]">
-          <h2 className="px-14 text-gray uppercase space font-bold text-5xl ">
+          <h2 className="px-14 text-gray uppercase space font-bold md:text-5xl ">
             web design
           </h2>
           <div className="text-gray space font-bold absolute right-0">
@@ -20,7 +20,7 @@ const Services = () => {
           </div>
         </div>
         <div className="border-b-gray border-b w-fit relative border-opacity-[.2] mt-10">
-          <h2 className="px-14 text-gray uppercase space font-bold text-5xl ">
+          <h2 className="px-14 text-gray uppercase space font-bold md:text-5xl ">
             CODING
           </h2>
           <div className="text-gray space font-bold absolute right-0">
