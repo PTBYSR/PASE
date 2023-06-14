@@ -20,7 +20,7 @@ const Landing = () => {
           </div>
           <div className="header-svg-mobile h-full flex items-end relative justify-start md:w-2/3 pb-9">
             <Header />
-            <p className="text-base text-gum md:ml-10  space">
+            <p className="md:text-base text-xs text-gum md:ml-10  space">
               DEVELOPMENT DESIGN
             </p>
           </div>
