@@ -32,7 +32,7 @@ const Services = () => {
         <div className="px-14 flex justify-end mt-40 ">
           <div className="w-1/2">
             <p className="text-gray text-lg inter mb-5">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, cupiditate recusandae adipisci,</p>
+            Experience exceptional design and web development services that leave a lasting impact. Discover the difference today.</p>
               <Button label="learn more" className="gap-5 text-gray"/>
           </div>
         </div>

@@ -20,7 +20,7 @@ module.exports = {
       sm: [".75rem", { lineHeight: "1", letterSpacing: ".025rem" }],
       base: ["1.2rem", { lineHeight: "", letterSpacing: "rem" }],
       lg: "1.5rem",
-      xl: "1.25rem",
+      xl: "3rem",
       "2xl": "1.5rem",
       "3xl": "1.875rem",
       "4xl": "2.25rem",
