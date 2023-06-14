@@ -7,6 +7,7 @@ const BigArrow = ({ w, h, fill }) => {
       height={h}
       viewBox="0 0 14 18"
       fill="none"
+      className="md:w-auto md:h-auto w-10 h-10"
       xmlns="http://www.w3.org/2000/svg"
     >
       <path

@@ -4,7 +4,7 @@ import React from "react";
 const Works = () => {
   return (
     <section className="bg-midnight">
-      <div className="px-14">
+      <div className="md:px-14 px-6">
         <div className="border-t-gray w-full border-t mb-14 pt-2 border-opacity-[.2] ">
 
         <p className="text-base text-gray space">Works</p>

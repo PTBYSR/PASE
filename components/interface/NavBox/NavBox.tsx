@@ -21,8 +21,8 @@ const NavItem = [
 
 const NavBox = () => {
   return (
-    <nav>
-      <div className=' md:w-[230px]'>
+    <nav className='md:w-[230px]'>
+      <div className=' '>
         <ul>
           {
             NavItem.map((item) => (

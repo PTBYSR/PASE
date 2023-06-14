@@ -8,7 +8,7 @@ const Landing = () => {
     <section id="landing" className="bg-midnight pt-12 md:p-14 p-6">
       <div className="md:h-[670px] flex flex-col">
         <div className="md:h-1/2  border-b-gray border-b border-opacity-[.2] flex md:flex-row flex-col">
-          <div>
+          <div className="md:hidden block">
             <p className="roboto text-base text-gray inter">
               Páse Digital <br />a collective of skilled developers and
               designers dedicated
@@ -24,7 +24,7 @@ const Landing = () => {
               DEVELOPMENT DESIGN
             </p>
           </div>
-          <div className="flex md:block hidden w-1/3 justify-end">
+          <div className=" md:flex hidden w-1/3 justify-end  h-fit">
             <NavBox />
           </div>
         </div>
@@ -52,11 +52,11 @@ const Landing = () => {
             </div>
           </div>
         </div>
-        <div className="mb-28 pt-7">
+        <div className="mb-28 pt-16 md:hidden block">
           <NavBox />
         </div>
       </div>
-      <div className="h-[400px] w-full bg-gum"> </div>
+      <div className="aspect-video w-full bg-gum"> </div>
     </section>
   );
 };
