@@ -29,7 +29,7 @@ const Services = () => {
         </div>
 
 
-        <div className="md:px-14 pl-12 flex justify-end md:mt-40 mt-24">
+        <div className="md:px-14 px-10 flex justify-end md:mt-40 mt-24">
           <div className="md:w-1/2">
             <p className="text-gray text-lg inter mb-5">
             Experience exceptional design and web development services that leave a lasting impact. Discover the difference today.</p>
