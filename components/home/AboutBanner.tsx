@@ -9,7 +9,7 @@ const AboutBanner = () => {
         </div>
         <div className='md:w-2/3 flex justify-end items-end '>
           <p className='text-gray text-lg  inter md:block hidden'>Welcome to our world of digital masterpieces. We are a group of talented developers and designers dedicated to crafting exceptional digital experiences. At Pase Digital, we blend expertise, passion, and creativity to push the boundaries of innovation. Join us on this journey of transforming ideas into extraordinary digital works of art. Let's create something exceptional together.</p>
-          <p className='text-gray text-lg  inter md:hidden block leading-8'>Welcome to our world of digital masterpieces. We are a group of talented developers and designers dedicated to crafting exceptional digital experiences. At Pase Digital, we blend expertise, passion, and creativity to push the boundaries of innovation.</p>
+          <p className='text-gray text-lg  inter md:hidden block leading-8'>Welcome to our world of digital masterpieces. We are a group of talented developers and designers dedicated to crafting exceptional web experiences. At Pase Digital, we blend expertise, passion, and creativity to push the boundaries of innovation.</p>
         </div>
       </div>
     </section>
