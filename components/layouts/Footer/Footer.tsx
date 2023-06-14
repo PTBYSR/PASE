@@ -21,7 +21,7 @@ const Footer = () => {
             <BigArrow fill="#99B2FF" w={14 * 10} h={19 * 10} />
           </div>
           <div className="md:w-1/2 ">
-            <p className="text-base text-midnight md:text-base leading-5">
+            <p className=" text-midnight md:text-base leading-5">
             WhatsApp or Email us to get started.<br /> Let's bring your digital vision to life.<br /> Contact us now!
             </p>
             <Button
