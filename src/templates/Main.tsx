@@ -12,7 +12,7 @@ const Main = (props: IMainProps) => (
   <div className="inter">
       
       {props.meta}
-        <main className="">{props.children}</main>
+        <main className="bg-midnight">{props.children}</main>
         <Footer />
   </div>
 );
