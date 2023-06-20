@@ -4,12 +4,12 @@ import NavBoxItem from './NavBoxItem'
 const NavItem = [
   {
     id: 1,
-    label: "our work",
+    label: "our case studies",
     url: "/services",
   },
   {
     id: 2,
-    label: "our services",
+    label: "our solutions",
     url: "/services",
   },
   {
@@ -19,6 +19,11 @@ const NavItem = [
   },
 ]
 
+
+
+
+
+
 const NavBox = () => {
   return (
     <nav className='md:w-[230px]'>
@@ -27,8 +32,9 @@ const NavBox = () => {
           {
             NavItem.map((item) => (
               <NavBoxItem label={item.label} url={item.url} key={item.id}/>
-            ))
-          }
+              ))
+            }
+            <NavBoxItem label="Hire us" url="" variant='cta'/>
         </ul>
       {/* <NavBoxItem /> */}
       </div>

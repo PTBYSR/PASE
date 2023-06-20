@@ -10,18 +10,18 @@ const Landing = () => {
         <div className="md:h-1/2  border-b-gray border-b border-opacity-[.2] flex md:flex-row flex-col">
           <div className="md:hidden block">
             <p className="roboto md:text-base leading-5 text-gray inter md:w-auto w-2/3">
-              Páse Digital a collective of skilled web developers and
-              designers dedicated
-              <span className="text-gum  ">
-                {" "}
-                to crafting extraordinary digital masterpieces.
-              </span>
+            Pase Digital is a collective of skilled <br className="hidden md:block"/> developers and 
+                designers dedicated <br className="hidden md:block"/>
+                <span className="text-gum  ">
+                  {" "}
+                  to crafting extraordinary digital <br className="hidden md:block"/> masterpieces for your audience.
+                </span>
             </p>
           </div>
           <div className="header-svg-mobile h-full flex items-end relative justify-start md:w-2/3 pb-9">
             <Header />
             <p className="md:text-base text-xs text-gum md:ml-10  space">
-              WEB DEVELOPMENT WEB DESIGN
+              2023
             </p>
           </div>
           <div className=" md:flex hidden w-1/3 justify-end  h-fit">
@@ -31,23 +31,20 @@ const Landing = () => {
         <div className="md:h-1/2 flex pt-9">
           <div className="w-1/2 md:flex hidden justify-start items-center">
             <div className="">
-              <p className="roboto text-base text-gray inter">
-                Páse Digital <br />a collective of skilled developers and
-                designers dedicated
+              <div className="roboto text-base text-gray inter">
+                We are a collective of skilled <br /> developers and 
+                designers dedicated <br />
                 <span className="text-gum  ">
                   {" "}
-                  to crafting extraordinary digital masterpieces.
+                  to crafting extraordinary digital <br /> masterpieces for your audience.
                 </span>
-              </p>
+              </div>
             </div>
           </div>
           <div className="md:w-1/2 ">
             <div>
-              <p className="roboto md:text-base leading-5 text-gray inter">
-                Hey, I'm Paul-Simon,
-                <br /> Head Developer and <br className="md:hidden block" />{" "}
-                founder of Páse Digital
-                <br />
+              <p className=" roboto md:text-lg text-gray inter">
+                We build websites tailored<br /> for your target audience!
               </p>
             </div>
           </div>
@@ -62,3 +59,6 @@ const Landing = () => {
 };
 
 export default Landing;
+
+
+

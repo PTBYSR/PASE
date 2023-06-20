@@ -9,7 +9,7 @@ type IMainProps = {
 };
 
 const Main = (props: IMainProps) => (
-  <div className="inter">
+  <div className="inter bg-midnight">
       
       {props.meta}
         <main className="bg-midnight">{props.children}</main>

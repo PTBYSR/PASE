@@ -5,7 +5,7 @@ import Marquee from "react-fast-marquee";
 
 const Footer = () => {
   return (
-    <footer className="bg-midnight ">
+    <footer className="bg-midnight  md:mt-40">
       <div className="flex md:h-[600px] flex-col bg-gray md:mx-8 mx-5 rounded-tl-md rounded-tr-md">
         <div className=" h-1/2  flex justify-center items-center">
           <div className=" w-full">
@@ -17,7 +17,7 @@ const Footer = () => {
           </div>
         </div>
         <div className=" h-1/2 flex flex-col-reverse md:flex-row  px-3 gap-10">
-          <div className="md:w-1/2 flex md:justify-center md:items-center border-t-midnight border-t border-opacity-[.2] py-[2.5rem]">
+          <div className=" md:w-1/2 flex md:justify-center md:items-center border-t-midnight border-t border-opacity-[.2] py-[2.5rem]">
             <BigArrow fill="#99B2FF" w={14 * 10} h={19 * 10} />
           </div>
           <div className="md:w-1/2 ">
@@ -29,12 +29,16 @@ const Footer = () => {
               className="gap-5 text-midnight mt-11"
               border="border-midnight"
               arrow="#1E2C54"
+              href={"https://wa.me/message/5V5COS7GSQP5K1"}
+              target={"_blank"}
             />
             <Button
               label="send us an email"
               className="gap-5 text-midnight mt-5"
               border="border-midnight"
               arrow="#1E2C54"
+              href={"mailto:paul.emechebe.co@gmail.com"}
+              target={"_blank"}
             />
           </div>
         </div>

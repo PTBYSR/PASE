@@ -7,7 +7,7 @@ const Works = () => {
       <div className="md:px-14 px-6">
         <div className="border-t-gray w-full border-t mb-14 pt-2 border-opacity-[.2] ">
 
-        <p className="text-base text-gray space">Works</p>
+        <p className="text-base text-gray space">Our Case Studies</p>
         </div>
         <WorksGallery />
       </div>
