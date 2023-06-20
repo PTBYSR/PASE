@@ -11,7 +11,7 @@ type IMainProps = {
 
 const Main = (props: IMainProps) => (
   <div className="inter bg-midnight">
-      <div className="md:hidden block px-6 md:px-14 pt-10 mb-10">
+      <div className="md:hidden block px-4 md:px-14 pt-10 mb-10">
         <NavBox />
       </div>
       {props.meta}

@@ -5,7 +5,7 @@ const Services = () => {
   return (
     <section className="bg-midnight pb-28">
       <div className="pt-14">
-        <div className="px-6 md:px-14 mb-36">
+        <div className="px-4 md:px-14 mb-36">
           <div className= " border-t-gray w-full border-t mb-14 pt-2 border-opacity-[.2] ">
             <p className=" text-base text-gray space ">Our Solutions</p>
           </div>

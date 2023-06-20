@@ -76,7 +76,7 @@ const Chow = () => {
         <section className="mt-40">
           <Image src={case1} />
           <div className="flex md:flex-row flex-col  md:mt-40 mt-20 items-center">
-            <div className="md:w-1/2 px-6 md:px-14  ">
+            <div className="md:w-1/2 px-4 md:px-14  ">
               <h2 className="mb-8 underline decoration-gum decoration-4 uppercase space text-3xl font-semibold text-gray leading-8">
                 Approach
               </h2>
@@ -97,14 +97,14 @@ const Chow = () => {
                 and driving increased engagement and conversions.
               </p>
             </div>
-            <div className="md:w-1/2 md:mt-0 mt-40 flex justify-center items-center">
+            <div className="md:w-1/2 w-2/3 md:mt-0 mt-40 flex justify-center items-center">
               <Image src={mockup} height={700} />
             </div>
           </div>
 <div className="mt-40">
   <Image src={case2} />
 </div>
-          <div className="px-6 md:px-14 mt-20">
+          <div className="px-4 md:px-14 mt-20">
             <h2 className="mb-8 uppercase space underline decoration-gum decoration-4 text-3xl font-semibold text-gray leading-8">
               Implementation
             </h2>
@@ -132,7 +132,7 @@ const Chow = () => {
           </div>
         </section>
       </div>
-      <div className="px-6 md:px-14 mt-40">
+      <div className="px-4 md:px-14 mt-40">
       <h2 className="text-gray text-xl space font-bold uppercase leading-10 mb-20">
             check out other<br /> case studies<span className="text-gum">.</span>
           </h2>

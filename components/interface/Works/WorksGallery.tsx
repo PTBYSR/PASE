@@ -52,7 +52,7 @@ const WorksGallery = ({variant = "web", className}) => {
   }
 
   return (
-    <div className={clsx('flex flex-col  md:gap-40 pb-20 ', [className])}>
+    <div className={clsx('flex flex-col gap-20 md:gap-40 pb-20 ', [className])}>
 
     {
       x?.map((project) => (

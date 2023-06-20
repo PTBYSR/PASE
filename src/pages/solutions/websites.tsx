@@ -14,7 +14,7 @@ const Websites = () => {
             <div className="mb-2">
               <div className="text-gum space text-xs uppercase md:ml-10 ml-2">
                 {" "}
-                our <br className="md:block hidden"/>
+                our <br className=" md:block hidden"/>
                 solutions
               </div>
             </div>
@@ -61,7 +61,7 @@ const Websites = () => {
           </div>
         </div>
       </section>
-      <section className="px-6 md:px-14 pt-20 md:pt-40">
+      <section className="px-4 md:px-14 pt-20 md:pt-40">
         <div className="md:w-[60%] mx-auto">
           <div>
             <h2 className="mb-8 uppercase space text-3xl font-semibold text-gray leading-8">Delivering a website design that captivates and brings joy to your audience</h2>

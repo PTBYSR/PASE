@@ -64,7 +64,7 @@ const Seo = () => {
           </div>
         </div>
       </section>
-      <section className="md:px-14 px-6 md:mt-0  pt-20 md:pt-40">
+      <section className="md:px-14 px-4 md:mt-0  pt-20 md:pt-40">
         <div className="md:w-[60%] mx-auto">
           <div>
             <h2 className="mb-8 uppercase space text-3xl font-semibold text-gray leading-8">Delivering a website design that captivates and brings joy to your audience</h2>
