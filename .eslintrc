@@ -26,7 +26,7 @@
       ],
       "extends": [
         "plugin:tailwindcss/recommended",
-        "airbnb-typescript",
+        // "airbnb-typescript",
         "next/core-web-vitals",
         "plugin:prettier/recommended"
       ],

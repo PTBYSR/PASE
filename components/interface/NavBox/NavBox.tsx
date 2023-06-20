@@ -5,17 +5,17 @@ const NavItem = [
   {
     id: 1,
     label: "our case studies",
-    url: "/services",
+    url: "/case-study",
   },
   {
     id: 2,
     label: "our solutions",
-    url: "/services",
+    url: "/solutions",
   },
   {
     id: 3,
     label: "contact us",
-    url: "/services",
+    url: "/",
   },
 ]
 
