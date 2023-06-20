@@ -78,12 +78,12 @@
     },
     // Configuration for e2e testing (Cypress)
     {
-      "files": ["cypress/**/*.ts"],
-      "plugins": ["cypress"],
-      "extends": ["plugin:cypress/recommended"],
-      "parserOptions": {
-        "project": "./cypress/tsconfig.json"
-      }
+      // "files": ["cypress/**/*.ts"],
+      // "plugins": ["cypress"],
+      // "extends": ["plugin:cypress/recommended"],
+      // "parserOptions": {
+      //   "project": "./cypress/tsconfig.json"
+      // }
     }
   ]
 }
