@@ -3,6 +3,7 @@ import React from "react";
 import Link from "next/link";
 import clsx from "clsx";
 
+
 const NavBoxItem = ({label, url, variant = "normal"}) => {
   return (
     <Link href={url || "/"}>

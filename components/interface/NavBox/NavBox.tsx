@@ -1,28 +1,6 @@
 import React from 'react'
 import NavBoxItem from './NavBoxItem'
-
-const NavItem = [
-  {
-    id: 1,
-    label: "our case studies",
-    url: "/case-study",
-  },
-  {
-    id: 2,
-    label: "our solutions",
-    url: "/solutions",
-  },
-  {
-    id: 3,
-    label: "contact us",
-    url: "/contact",
-  },
-]
-
-
-
-
-
+import { NavItem } from 'utils/nav/NavItem'
 
 const NavBox = () => {
   return (

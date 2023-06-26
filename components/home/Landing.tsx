@@ -53,7 +53,7 @@ const Landing = () => {
           <NavBox />
         </div>
       </div>
-      <div className="aspect-video w-full bg-gum"> </div>
+      {/* <div className="aspect-video w-full bg-gum"> </div> */}
     </section>
   );
 };
