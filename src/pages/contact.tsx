@@ -199,7 +199,7 @@ const Contact = () => {
               </select>
             </div>
 
-            <button type="submit">
+            <button type="submit" className="mt-5">
               <div className="flex gap-5  items-center">
                 <div className="uppercase inter text-gray font-semibold opacity-[.8] text-sm">
                   submit
