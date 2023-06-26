@@ -10,7 +10,7 @@ import WorksGallery from "components/interface/Works/WorksGallery";
 
 const CaseStudies = () => {
   return (
-    <Main meta={<Meta title="Our Solutions" description="" />}>
+    <Main meta={<Meta title="Our Case Studies" description="" />}>
       <div>
         <section id="" className="bg-midnight pt-12 md:p-14 px-4">
           <h2 className="text-gray text-xl space font-bold uppercase leading-10 mb-20">

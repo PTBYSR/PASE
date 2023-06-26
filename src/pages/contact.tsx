@@ -27,7 +27,7 @@ const Contact = () => {
   };
 
   return (
-    <Main meta={<Meta title="Our Solutions" description="" />}>
+    <Main meta={<Meta title="Contact us" description="" />}>
       <section id="landing" className="bg-midnight pt-12 md:p-14 p-6">
         <div className="md:h-[670px] flex flex-col">
           <div className="md:h-1/2  border-b-gray border-b border-opacity-[.2] flex md:flex-row flex-col">

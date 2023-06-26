@@ -7,7 +7,7 @@ import { solutions } from "./index";
 
 const Seo = () => {
   return (
-    <Main meta={<Meta title="Seo" description="" />}>
+    <Main meta={<Meta title="Our Solutions - SEO" description="" />}>
       <section id="" className="bg-midnight pt-12 md:p-14 p-6">
         <div className="md:h-[670px] flex flex-col ">
           <div className="h-1/2 w-full flex md:flex-row-reverse  flex-col justify-end md:items-end pb-9 border-b-gray border-b border-opacity-[.2] ">
