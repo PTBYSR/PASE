@@ -16,8 +16,8 @@ const Index = () => {
     <Main
       meta={
         <Meta
-          title="Pase Digital Next.js Boilerplate"
-          description=""
+          title="Pase Digital"
+          description="A Web Design Agency"
         />
       }
     >
