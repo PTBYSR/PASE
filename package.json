@@ -8,6 +8,7 @@
     "export": "next export"
   },
   "dependencies": {
+    "@formspark/use-formspark": "^0.1.39",
     "clsx": "^1.2.1",
     "firebase": "^9.17.2",
     "framer-motion": "^10.4.0",

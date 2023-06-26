@@ -15,7 +15,7 @@ const NavItem = [
   {
     id: 3,
     label: "contact us",
-    url: "/",
+    url: "/contact",
   },
 ]
 
@@ -34,7 +34,7 @@ const NavBox = () => {
               <NavBoxItem label={item.label} url={item.url} key={item.id}/>
               ))
             }
-            <NavBoxItem label="Hire us" url="" variant='cta'/>
+            <NavBoxItem label="Hire us" url="/contact" variant='cta'/>
         </ul>
       {/* <NavBoxItem /> */}
       </div>

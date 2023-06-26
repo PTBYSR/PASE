@@ -12,28 +12,28 @@ const CaseStudies = () => {
   return (
     <Main meta={<Meta title="Our Solutions" description="" />}>
       <div>
-        <section id="" className="bg-midnight pt-12 md:p-14 p-6">
+        <section id="" className="bg-midnight pt-12 md:p-14 px-4">
           <h2 className="text-gray text-xl space font-bold uppercase leading-10 mb-20">
-            Process from
-            <br /> research to
-            <br /> finished product<span className="text-gum">.</span>
+            building 
+            <br /> revenue monsters
+            <br /> for our clients <span className="text-gum">.</span>
           </h2>
           <div className=" flex flex-col ">
-            <div className="h-1/2 w-full flex flex-row-reverse justify-end items-end pb-9 border-b-gray border-b border-opacity-[.2] ">
+            <div className="h-1/2 w-full flex flex-col md:flex-row-reverse md:justify-end md:items-end pb-9 border-b-gray border-b border-opacity-[.2] ">
               <div className="mb-2">
-                <h1 className="text-gum space text-xs uppercase ml-10 r">
+                <h1 className="text-gum space text-xs uppercase ml-2 md:ml-10 ">
                   {" "}
-                  case studies
+                  projects
                 </h1>
               </div>
               <div className=" text-gray text-5xl space uppercase font-bold leading-[5.5rem]">
-                our projects
+                works
               </div>
             </div>
           </div>
         </section>
       </div>
-      <div className="px-14 mt-20">
+      <div className="px-4 md:px-14 mt-20">
         <WorksGallery className={"flex-col-reverse"}/>
         <WorksGallery className={"flex-col-reverse mt-20"} variant="ecom"/>
       </div>
@@ -41,4 +41,4 @@ const CaseStudies = () => {
   );
 };
 
-export default CaseStudies;
+export default CaseStudies

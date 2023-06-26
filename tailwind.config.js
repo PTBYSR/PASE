@@ -18,6 +18,7 @@ module.exports = {
       gum: "#99B2FF",
       gray: "#F3F4F6",
       "light-midnight": "#26396F",
+      green: "#3339A9A",
     },
     fontSize: {
       xs: ["14px", { lineHeight: "24px", letterSpacing: "-0.03em" }],

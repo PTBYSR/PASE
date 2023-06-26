@@ -111,7 +111,7 @@ const Solutions = () => {
           <div className=" md:mt-0">
             {/* ------------------WEBSITES */}
 
-            <div className="bg-light-midnight mt-28 md:h-[600px] p-14 flex md:px-0 px-4 md:ml-14 md:flex-row flex-col gap-20">
+            <div className="bg-light-midnight mt-28 md:h-[600px] p-14 flex md:px-14 px-4 md:ml-14 md:flex-row flex-col gap-20">
               <div className=" md:w-1/2 flex flex-col md:justify-between ">
                 <h2 className="text-xl text-gray space uppercase font-bold ">
                   Websites
@@ -157,7 +157,7 @@ const Solutions = () => {
 
             {/* ------------------ECOMMERCE */}
 
-            <div className="bg-light-midnight mt-28 md:h-[600px] p-14 md:px-0 px46 md:p-14 flex md:mr-14 md:flex-row flex-col gap-20">
+            <div className="bg-light-midnight mt-28 md:h-[600px] px-4 py-14 md:px-14  md:p-14 flex md:mr-14 md:flex-row flex-col gap-20">
               <div className=" md:w-1/2 flex flex-col md:justify-between">
                 <h2 className="text-xl text-gray space uppercase font-bold">
                   ECOMMERCE
@@ -207,8 +207,8 @@ const Solutions = () => {
 
             {/* ------------------SEO */}
 
-            <div className="bg-light-midnight mt-28 md:h-[600px] p-14 px-4 md:px-0 flex md:ml-14 md:flex-row flex-col gap-20">
-              <div className="md: w-1/2 flex flex-col md:justify-between">
+            <div className="bg-light-midnight mt-28 md:h-[600px] p-14 px-4 md:px-14 flex md:ml-14 md:flex-row flex-col gap-20">
+              <div className="md:w-1/2 flex flex-col md:justify-between">
                 <h2 className="text-xl text-gray space uppercase font-bold">
                   SEO
                 </h2>
