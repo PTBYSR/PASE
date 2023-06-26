@@ -107,7 +107,7 @@ const Solutions = () => {
 
 
 
-<section className="bg-midnight mt-60 md:mt-0">
+<section className="bg-midnight mt-60 md:mt-0 mb-40">
           <div className=" md:mt-0">
             {/* ------------------WEBSITES */}
 

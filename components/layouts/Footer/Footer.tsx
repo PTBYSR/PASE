@@ -6,7 +6,7 @@ import Marquee from "react-fast-marquee";
 const Footer = () => {
   return (
     <footer className="bg-midnight  md:mt-40">
-      <div className="flex md:h-[600px] flex-col bg-gray md:mx-8 mx-5 rounded-tl-md rounded-tr-md">
+      <div className="flex md:h-[600px] flex-col bg-gray md:mx-8  rounded-tl-md rounded-tr-md">
         <div className=" h-1/2  flex justify-center items-center">
           <div className=" w-full">
             <Marquee autoFill speed={45} play>

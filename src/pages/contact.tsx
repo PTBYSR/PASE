@@ -49,8 +49,8 @@ const Contact = () => {
                 contact
               </div>
 
-              <p className="md:text-base text-xs text-gum md:ml-10  space">
-                2023
+              <p className="md:text-base uppercase text-xs text-gum md:ml-10  space">
+                let's work
               </p>
             </div>
             <div className=" md:flex hidden w-1/3 justify-end  h-fit">
@@ -92,7 +92,7 @@ const Contact = () => {
         
         <div className="md:w-1/2">
           <form
-            className="max-w-md mx-auto bg-white md:p-6 rounded-md shadow-md"
+            className="max-w-md mx-auto bg-white md:p-6 "
             onSubmit={onSubmit}
           >
             <div className="mb-9">
@@ -224,7 +224,7 @@ const Contact = () => {
             </div>
           </div>
 
-          <Link href="">
+          <Link href="https://www.instagram.com/pasedigital.co/" target="_blank">
             <div className="border-b-gray border-b w-fit relative border-opacity-[.2] ">
               <h2 className="pl-11 md:px-14  text-gray uppercase space font-bold md:text-5xl text-[3rem]">
                 instagram
@@ -234,7 +234,7 @@ const Contact = () => {
               </div>
             </div>
           </Link>
-          <Link href="">
+          <Link href="https://www.linkedin.com/company/92485126/" target="_blank">
             <div className="border-b-gray border-b w-fit relative border-opacity-[.2] mt-10">
               <h2 className="pl-11 md:px-14  text-gray uppercase space font-bold md:text-5xl text-[3rem]">
                 linkedin{" "}
