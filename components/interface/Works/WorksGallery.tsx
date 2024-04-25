@@ -10,9 +10,9 @@ import clsx from 'clsx'
 const projects = [
   {
     label: "Brookside University",
-    url: "Brookside University is a leading research university pushing boundaries and frontiers ever since its inception.",
+    url: "https://brookside-university.vercel.app/",
     route: "/case-study/laguru",
-    desc: "A Unisex barbershop in Abuja",
+    desc: "Brookside University is a leading research university pushing boundaries and frontiers ever since its inception.",
     id: 3,
     caseStudy: false,
 
