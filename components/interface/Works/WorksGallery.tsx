@@ -9,11 +9,42 @@ import clsx from 'clsx'
 
 const projects = [
   {
+    label: "Brookside University",
+    url: "Brookside University is a leading research university pushing boundaries and frontiers ever since its inception.",
+    route: "/case-study/laguru",
+    desc: "A Unisex barbershop in Abuja",
+    id: 3,
+    caseStudy: false,
+
+    src: laguru,
+  },
+  {
+    label: "Eduflow",
+    url: "https://eduflow-ruddy.vercel.app/",
+    route: "/case-study/laguru",
+    desc: "We are Montanas best and finest education university with the best facilities and fun activities",
+    id: 4,
+    caseStudy: false,
+
+    src: laguru,
+  },
+  {
+    label: "Maxion",
+    url: "https://laguru-barbers-5bzk.vercel.app/",
+    route: "/case-study/laguru",
+    desc: "A Unisex barbershop in Abuja",
+    id: 4,
+    caseStudy: false,
+
+    src: laguru,
+  },
+  {
     label: "500 chow",
     url: "http://500chow-red.vercel.app/",
     route: "/case-study/chow",
     desc: "a food delivery service  located in Lagos Island",
     id: 1,
+    caseStudy: true,
     src: chow,
   },
   {
@@ -22,9 +53,21 @@ const projects = [
     route: "/case-study/laguru",
     desc: "A Unisex barbershop in Abuja",
     id: 2,
+    caseStudy: true,
 
     src: laguru,
   },
+  {
+    label: "Ignatius School",
+    url: "https://ignatius-school.vercel.app/",
+    route: "/case-study/laguru",
+    desc: "Welcome to St. Ignatius College School! Get ready for another year of learning and growing together.",
+    id: 2,
+    caseStudy: false,
+
+    src: laguru,
+  },
+ 
 ]
 
 const ecomSites = [
@@ -34,6 +77,7 @@ const ecomSites = [
     desc: "A female cosmetic store for females in Enugu",
     route: "/case-study/melanie",
     id: 1,
+    case: true,
     src: melanie,
   },
 
@@ -56,7 +100,7 @@ const WorksGallery = ({variant = "web", className}) => {
 
     {
       x?.map((project) => (
-        <WorkCard route={project.route} src={project.src} label={project.label} key={project.id} url={project.url} desc={project.desc}/>
+        <WorkCard route={project.route} src={project.src} label={project.label} key={project.id} url={project.url} desc={project.desc} caseStudy={project.caseStudy}/>
       ))
     }
 

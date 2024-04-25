@@ -4,12 +4,12 @@ import Link from 'next/link'
 import Image from 'next/image'
 import Button from "components/ui/Button";
 
-const WorkCard = ({label, url, src, desc, route}) => {
+const WorkCard = ({label, url, src, desc, route, caseStudy}) => {
   return (
-    <div className="mb-20">
-      <div className="aspect-video relative border w-full bg-gum flex items-end ">
+    <div className="mb-10">
+      {/* <div className="aspect-video relative border w-full bg-gum flex items-end ">
         <Image src={src} />
-      </div>
+      </div> */}
         <div className=" mt-8 w-full md:h-28  flex flex-col md:pb-0  md:items-start">
           <div className=" h-full md:w-1/2 flex  ">
             <div className="text-gray text-xl space font-bold uppercase">{ label || "500 CHOW"}</div>
@@ -21,7 +21,13 @@ const WorkCard = ({label, url, src, desc, route}) => {
             </p>
             <div className="mt-10 flex gap-5 flex-col ">
              <Button label="visit site" className="text-gray gap-5" href={url}/>
-             <Button label="go to case study" className="text-gray gap-5" href={route}/>
+             {
+              caseStudy ?
+              <>
+                <Button label="go to case study" className="text-gray gap-5" href={route}/>
+              </> : 
+                null
+             }
             </div>
           </div>
         </div>

@@ -20,9 +20,9 @@ const Landing = () => {
           </div>
           <div className="header-svg-mobile h-full flex items-end relative justify-start md:w-2/3 pb-9">
             <Header />
-            <p className="md:text-base text-xs text-gum md:ml-10  space">
-              2023
-            </p>
+            <div className="md:text-base text-xs text-gum md:ml-10  space">
+              2024
+            </div>
           </div>
           <div className=" md:flex hidden w-1/3 justify-end  h-fit">
             <NavBox />
@@ -43,9 +43,9 @@ const Landing = () => {
           </div>
           <div className="md:w-1/2 ">
             <div>
-              <p className=" roboto md:text-lg text-gray inter">
+              <h1 className=" roboto md:text-lg text-gray inter">
                 We build websites tailored<br /> for your target audience!
-              </p>
+              </h1>
             </div>
           </div>
         </div>
