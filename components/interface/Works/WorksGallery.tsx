@@ -18,16 +18,7 @@ const projects = [
 
     src: laguru,
   },
-  {
-    label: "Brookside University",
-    url: "https://brookside-university.vercel.app/",
-    route: "/case-study/laguru",
-    desc: "Brookside University is a leading research university pushing boundaries and frontiers ever since its inception.",
-    id: 3,
-    caseStudy: false,
-
-    src: laguru,
-  },
+ 
   {
     label: "Eduflow",
     url: "https://eduflow-ruddy.vercel.app/",
@@ -56,6 +47,16 @@ const projects = [
     id: 1,
     caseStudy: true,
     src: chow,
+  },
+  {
+    label: "Brookside University",
+    url: "https://brookside-university.vercel.app/",
+    route: "/case-study/laguru",
+    desc: "Brookside University is a leading research university pushing boundaries and frontiers ever since its inception.",
+    id: 3,
+    caseStudy: false,
+
+    src: laguru,
   },
   {
     label: "Laguru Barbers",
