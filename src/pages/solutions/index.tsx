@@ -10,14 +10,14 @@ import React from "react";
 //   {
 //       id: 1,
 //       label: "Ecommerce Website Development",
-//       labelSubHeading: "In today's digital landscape, your company website serves as the modern equivalent of a brick and mortar store, often being the first interaction potential customers have with your business. To maximize this opportunity, it is essential to invest in custom web design that seamlessly integrates captivating aesthetics with reliable functionality. As a prominent custom web design agency, Pase Digital excels in creating websites that stand out from the competition by combining exceptional design and high performance",
+//       labelSubHeading: "In today's digital landscape, your company website serves as the modern equivalent of a brick and mortar store, often being the first interaction potential customers have with your business. To maximize this opportunity, it is essential to invest in custom web design that seamlessly integrates captivating aesthetics with reliable functionality. As a prominent custom web design agency, Páse Digital excels in creating websites that stand out from the competition by combining exceptional design and high performance",
 //       labelFeatures: [
 //         "Responsive Design",
 //         "High Performance",
 //         "Search Engine Optimization"
 //       ],
 //       bodyHeading: "Delivering a website design that captivates and brings joy to your audience",
-//       bodySubHeading: "Pase Digital takes immense pride in our expertise in selecting and mastering cutting-edge web technologies. We leverage these technologies to create scalable and high-performing websites and web applications. Our custom web designs are bolstered by a robust support network and a thriving community, guaranteeing ongoing growth and advancement for your business. Our unwavering commitment to future-proof web design solutions ensures that your custom website remains at the forefront of innovation and performance.",
+//       bodySubHeading: "Páse Digital takes immense pride in our expertise in selecting and mastering cutting-edge web technologies. We leverage these technologies to create scalable and high-performing websites and web applications. Our custom web designs are bolstered by a robust support network and a thriving community, guaranteeing ongoing growth and advancement for your business. Our unwavering commitment to future-proof web design solutions ensures that your custom website remains at the forefront of innovation and performance.",
 //       bodyFeatures: [
 //         {
 //           label: "Responsive Design",
@@ -145,7 +145,7 @@ const Solutions = () => {
                 <div className="inter text-gray text-base">
                   The digital representation of your business lies in your
                   website, serving as a crucial tool to attract and retain
-                  customers. At Pase Digital, we offer customized website design
+                  customers. At Páse Digital, we offer customized website design
                   and development solutions that aim to establish a strong
                   online presence, setting you apart from your competitors. Our
                   meticulous approach ensures that your website reflects your
@@ -191,7 +191,7 @@ const Solutions = () => {
                 <div className="inter text-gray text-base">
                   In today's digital era, having a strong online presence is
                   crucial for businesses looking to expand their customer base
-                  and increase their profits. At Pase Digital, our e-commerce
+                  and increase their profits. At Páse Digital, our e-commerce
                   solutions combine attractive designs with impeccable
                   functionality to create online stores that engage your desired
                   audience and drive sales. We place a high emphasis on creating
@@ -241,7 +241,7 @@ const Solutions = () => {
                 <div className="inter text-gray text-base">
                   Your website acts as a digital gateway for your business,
                   making SEO (Search Engine Optimization) a critical component
-                  for success. At Pase Digital, we specialize in optimizing
+                  for success. At Páse Digital, we specialize in optimizing
                   websites to increase visibility, attract organic traffic, and
                   outrank competitors in search engine results. Our SEO
                   strategies are meticulously tailored to your specific business

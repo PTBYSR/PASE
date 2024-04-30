@@ -31,7 +31,7 @@ const Websites = () => {
                 To maximize this opportunity, it is essential to invest in
                 custom web design that seamlessly integrates captivating
                 aesthetics with reliable functionality. As a prominent custom
-                web design agency, Pase Digital excels in creating websites that stand
+                web design agency, Páse Digital excels in creating websites that stand
                 out from the competition by combining exceptional design and
                 high performance
               </div>
@@ -65,7 +65,7 @@ const Websites = () => {
         <div className="md:w-[60%] mx-auto">
           <div>
             <h2 className="mb-8 uppercase space text-3xl font-semibold text-gray leading-8">Delivering a website design that captivates and brings joy to your audience</h2>
-            <p className=" text-gray">Pase Digital takes immense pride in our expertise in selecting and mastering cutting-edge web technologies. We leverage these technologies to create scalable and high-performing websites and web applications. Our custom web designs are bolstered by a robust support network and a thriving community, guaranteeing ongoing growth and advancement for your business. Our unwavering commitment to future-proof web design solutions ensures that your custom website remains at the forefront of innovation and performance.</p>
+            <p className=" text-gray">Páse Digital takes immense pride in our expertise in selecting and mastering cutting-edge web technologies. We leverage these technologies to create scalable and high-performing websites and web applications. Our custom web designs are bolstered by a robust support network and a thriving community, guaranteeing ongoing growth and advancement for your business. Our unwavering commitment to future-proof web design solutions ensures that your custom website remains at the forefront of innovation and performance.</p>
           </div>
           <div className="mt-20">
               <div className="border-2 border-gum bg-gum h-full mb-16"></div>

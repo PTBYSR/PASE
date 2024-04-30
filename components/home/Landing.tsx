@@ -10,7 +10,7 @@ const Landing = () => {
         <div className="md:h-1/2  border-b-gray border-b border-opacity-[.2] flex md:flex-row flex-col">
           <div className="md:hidden block">
             <p className="roboto md:text-base leading-5 text-gray inter md:w-auto w-2/3">
-            Pase Digital is a collective of skilled <br className="hidden md:block"/> developers and 
+            Páse Digital is a collective of skilled <br className="hidden md:block"/> developers and 
                 designers dedicated <br className="hidden md:block"/>
                 <span className="text-gum  ">
                   {" "}

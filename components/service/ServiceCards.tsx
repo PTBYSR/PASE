@@ -36,7 +36,7 @@ const ServiceCards = () => {
               <div className="inter text-gray text-base">
                 The digital representation of your business lies in your
                 website, serving as a crucial tool to attract and retain
-                customers. At Pase Digital, we offer customized website design and
+                customers. At Páse Digital, we offer customized website design and
                 development solutions that aim to establish a strong online
                 presence, setting you apart from your competitors. Our
                 meticulous approach ensures that your website reflects your

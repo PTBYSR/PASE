@@ -23,7 +23,7 @@ const Index = () => {
     <Main
       meta={
         <Meta
-          title="Pase Digital"
+          title="Páse Digital"
           description="A Web Design Agency"
         />
       }

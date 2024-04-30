@@ -27,7 +27,7 @@ const Ecommerce = () => {
               <div className="text-gray inter ">
                 In today's digital era, having a strong online presence is
                 crucial for businesses looking to expand their customer base and
-                increase their profits. At Pase Digital, our e-commerce solutions
+                increase their profits. At Páse Digital, our e-commerce solutions
                 combine attractive designs with impeccable functionality to
                 create online stores that engage your desired audience and drive
                 sales. We place a high emphasis on creating user-friendly
@@ -91,7 +91,7 @@ const Ecommerce = () => {
             </h4>
             <div className="ml-5">
               <p className="text-gray">
-                At Pase Digital, we provide a comprehensive selection of
+                At Páse Digital, we provide a comprehensive selection of
                 ecommerce website development services that are custom-tailored
                 to meet your specific needs.
               </p>

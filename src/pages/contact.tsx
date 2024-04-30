@@ -33,7 +33,7 @@ const Contact = () => {
           <div className="md:h-1/2  border-b-gray border-b border-opacity-[.2] flex md:flex-row flex-col">
             <div className="hidden block">
               <p className="roboto md:text-base leading-5 text-gray inter md:w-auto w-2/3">
-                Pase Digital is a collective of skilled{" "}
+                Páse Digital is a collective of skilled{" "}
                 <br className="hidden md:block" /> developers and designers
                 dedicated <br className="hidden md:block" />
                 <span className="text-gray  ">
@@ -224,7 +224,7 @@ const Contact = () => {
             </div>
           </div>
 
-          <Link href="https://www.instagram.com/pasedigital.co/" target="_blank">
+          <Link href="https://www.instagram.com/Pásedigital.co/" target="_blank">
             <div className="border-b-gray border-b w-fit relative border-opacity-[.2] ">
               <h2 className="pl-11 md:px-14  text-gray uppercase space font-bold md:text-5xl text-[3rem]">
                 instagram

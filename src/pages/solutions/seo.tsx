@@ -27,7 +27,7 @@ const Seo = () => {
               <div className="text-gray inter ">
               Your website acts as a digital gateway for your business,
                   making SEO (Search Engine Optimization) a critical component
-                  for success. At Pase Digital, we specialize in optimizing
+                  for success. At Páse Digital, we specialize in optimizing
                   websites to increase visibility, attract organic traffic, and
                   outrank competitors in search engine results. Our SEO
                   strategies are meticulously tailored to your specific business
@@ -68,7 +68,7 @@ const Seo = () => {
         <div className="md:w-[60%] mx-auto">
           <div>
             <h2 className="mb-8 uppercase space text-3xl font-semibold text-gray leading-8">Delivering a website design that captivates and brings joy to your audience</h2>
-            <p className=" text-gray">Pase Digital takes immense pride in our expertise in selecting and mastering cutting-edge web technologies. We leverage these technologies to create scalable and high-performing websites and web applications. Our custom web designs are bolstered by a robust support network and a thriving community, guaranteeing ongoing growth and advancement for your business. Our unwavering commitment to future-proof web design solutions ensures that your custom website remains at the forefront of innovation and performance.</p>
+            <p className=" text-gray">Páse Digital takes immense pride in our expertise in selecting and mastering cutting-edge web technologies. We leverage these technologies to create scalable and high-performing websites and web applications. Our custom web designs are bolstered by a robust support network and a thriving community, guaranteeing ongoing growth and advancement for your business. Our unwavering commitment to future-proof web design solutions ensures that your custom website remains at the forefront of innovation and performance.</p>
           </div>
           <div className="mt-20">
               <div className="border-2 border-gum bg-gum h-full mb-16"></div>
