@@ -12,7 +12,7 @@ const projects = [
     label: "Bellz Films",
     url: "https://bit.ly/Bellzfilms",
     route: "/case-study/laguru",
-    desc: "Bellz Films is video studio agency for weddings and luxurious events in Nigeria.",
+    desc: "Bellz Films is a videography studio agency for weddings and luxurious events in Nigeria.",
     id: 3,
     caseStudy: false,
 
