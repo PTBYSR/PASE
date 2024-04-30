@@ -32,7 +32,7 @@ const projects = [
     label: "Maxion",
     url: "https://laguru-barbers-5bzk.vercel.app/",
     route: "/case-study/laguru",
-    desc: "A Unisex barbershop in Abuja",
+    desc: "",
     id: 4,
     caseStudy: false,
 

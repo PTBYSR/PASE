@@ -11,7 +11,7 @@ const Footer = () => {
           <div className=" w-full">
             <Marquee autoFill speed={20} play>
               <p className="md:text-[10rem]  text-5xl font-bold space mr-10 text-midnight">
-                LET'S GET TO WORK{" "}
+                LET'S TALK{" "}
               </p>
             </Marquee>
           </div>
@@ -30,7 +30,7 @@ const Footer = () => {
               border="border-midnight"
               arrow="#1E2C54"
               href={"/contact"}
-              target={"_blank"}
+              target={""}
             />
           </div>
         </div>
@@ -60,7 +60,7 @@ const Footer = () => {
             />
           </div>
         </div>
-        <div className="text-xs mt-10 mb-4 px-3 md:px-10 text-[#bababa]">All rights reserved ©2024.Páse Digtal</div>
+        <div className="text-xs mt-10 mb-4 px-3 md:px-10 text-[#bababa]">All rights reserved ©2024.Páse Digital</div>
       </div>
     </footer>
   );

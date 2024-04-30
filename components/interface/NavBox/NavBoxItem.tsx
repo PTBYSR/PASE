@@ -8,7 +8,7 @@ const NavBoxItem = ({label, url, variant = "normal"}) => {
   return (
     <Link href={url || "/"}>
       <li className={clsx("pt-5 ", 
-        variant === "cta" && ["animate-pulse "]
+        variant === "cta" && ["animate-pulse text-gum"]
       )}>
         <div className="">
           <div className="flex  items-center justify-between">
@@ -16,8 +16,8 @@ const NavBoxItem = ({label, url, variant = "normal"}) => {
               {label || "link"}
             </p>
             <div className={clsx(" border border-gray  h-5 rounded-full w-11 flex items-center justify-end pr-2" ,
-              variant === "cta" && ["border-opacity-"],
-              variant === "normal" && ["border-opacity-[.2]"],
+              variant === "cta" && ["border-opacity- text-gum"],
+              variant === "normal" && ["border-opacity-[.4]"],
             )}>
               <ArrowRight w="14" h="10"  />
             </div>

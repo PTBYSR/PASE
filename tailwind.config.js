@@ -14,10 +14,10 @@ module.exports = {
       xl: "1440px",
     },
     colors: {
-      midnight: "#1E2C54",
+      midnight: "#fff",
       gum: "#99B2FF",
-      gray: "#F3F4F6",
-      "light-midnight": "#26396F",
+      gray: "#4C4C4C",
+      // "light-midnight": "#26396F",
       green: "#3339A9A",
     },
     fontSize: {
